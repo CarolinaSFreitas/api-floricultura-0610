@@ -30,7 +30,7 @@ async function conecta_db() {
     await Compra.sync({alter: true})         //vai ciar a tabela no banco(se nao existir já) e permitir alterações de campos 
     console.log("Tabela de Compras: Ok!")
 
-    await ProdutosCompra.sync({ force: true })         //vai ciar a tabela no banco(se nao existir já) e permitir alterações de campos 
+    await ProdutosCompra.sync({ alter: true, force: true })         //vai ciar a tabela no banco(se nao existir já) e permitir alterações de campos 
     console.log("Tabela de Compras de Produto: Ok!")
 
     await sequelize.authenticate();
