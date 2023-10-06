@@ -1,4 +1,5 @@
 import express from 'express'
+import routes from '/routes.js'
 import { sequelize } from './database/conecta.js'
 import { Cliente } from './models/Cliente.js'
 import { Produto } from './models/Produto.js'
@@ -11,7 +12,7 @@ const port = 3000
 
 app.use(express.json())
 app.use(cors())
-// app.use(routes)
+app.use(routes)
 // app.use(express.static('images'));
 
 
