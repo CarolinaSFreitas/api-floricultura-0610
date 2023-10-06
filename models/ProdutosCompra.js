@@ -9,7 +9,7 @@ export const ProdutosCompra = sequelize.define('produtos_compra', { // nome da t
         autoIncrement: true,
         primaryKey: true
     },
-    preco_produto: {
+    preco: {
         type: DataTypes.DECIMAL(9, 2),
         allowNull: false
     },
