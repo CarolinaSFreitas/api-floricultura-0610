@@ -16,6 +16,6 @@ Aula de Desenvolvimento de Serviços e APIs - TRANSIÇÕES - 06/10
 5. No VS, criar um "app.js" como o arquivo do repo
 6. ⚠️ Alterar o "package.json", adicionando a linha `` "type": "module", `` após a linha de "main": "index.js","
 
-````
 ![image](https://github.com/CarolinaSFreitas/api-floricultura-0610/assets/99994934/f036773f-00af-4035-a477-ba0604783467)
-````
+
+
