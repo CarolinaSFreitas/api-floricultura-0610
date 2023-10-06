@@ -4,7 +4,7 @@ Aula de Desenvolvimento de Serviços e APIs - TRANSIÇÕES - 06/10
 # 🌹 FLORICULTURA
 
 #### Documentação do Sequelize sobre associações: 
-+ [https://sequelize.org/docs/v6/core-concepts/assocs/](https://sequelize.org/docs/v6/other-topics/transactions/)https://sequelize.org/docs/v6/other-topics/transactions/
++ https://sequelize.org/docs/v6/other-topics/transactions/
 
 ### Lembrando que:
 
