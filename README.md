@@ -1,9 +1,9 @@
 # DSA 06/10
-Aula de Desenvolvimento de Serviços e APIs - TRANSIÇÕES - 06/10 
+Aula de Desenvolvimento de Serviços e APIs - TRANSAÇÕES - 06/10 
 
 # 🌹 FLORICULTURA
 
-#### Documentação do Sequelize sobre associações: 
+#### Documentação do Sequelize sobre transações: 
 + https://sequelize.org/docs/v6/other-topics/transactions/
 
 ### Lembrando que:
